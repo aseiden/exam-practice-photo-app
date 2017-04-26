@@ -1,0 +1,19 @@
+{
+  "name": "exam-practice-photo-app",
+  "version": "1.0.0",
+  "description": "Practice for the HR mid-term",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aseiden/exam-practice-photo-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aseiden/exam-practice-photo-app/issues"
+  },
+  "homepage": "https://github.com/aseiden/exam-practice-photo-app#readme"
+}
